@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int i,n,a,c,j;
+clrscr();
+for(i=1;i<=999;i++)
+{
+n=i;
+while(n>0)
+{
+a=n%10;
+c=c+a*a*a;
+n=n/10;
+}
+if(c==i)
+{
+printf("%d\t",c);
+}
+}
+getch();
+}

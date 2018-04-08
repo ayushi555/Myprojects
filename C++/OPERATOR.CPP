@@ -1,0 +1,24 @@
+#include<iostream.h>
+void main()
+{
+int a,b,n;
+char ch;
+cout<<"enter the operator;;";
+cin>>ch;
+cout<<"enter the two no.s:";
+cin>>a>>b;
+if(ch=='+')
+{cout<<"a+b:";
+cout<<a+b;
+}
+else if(ch=='-')
+{cout<<"a-b =";
+cout<<a-b;
+}else if(ch=='*')
+{cout<<"a*b";
+cout<<a*b;
+}else if(ch=='/')
+cout<<a/b;
+else
+cout<<"wrong choice";
+}

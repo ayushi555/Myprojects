@@ -1,0 +1,22 @@
+#include<iostream.h>
+void main()
+{
+int num,l=0,o=1;
+cout<<"enter";
+do{
+cin>>num;
+if(num%2==0)
+{if(l<num)
+l=num;
+}
+else
+{if(o<num)
+o=num;
+}
+}while(num!=0);
+cout<<"largerst even is:"<<l;
+cout<<"largat odd is :"<<o;
+}
+
+
+

@@ -1,0 +1,8 @@
+#include<iostream.h>
+void main()
+{
+int n;
+cout<<"enter";
+cin>>n;
+n%2==0?n*n:n*n*n;
+}

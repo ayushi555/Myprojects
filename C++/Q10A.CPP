@@ -1,0 +1,14 @@
+#include<iostream.h>
+void main()
+{
+float i,k,s,n,j=2,p=9;
+cout<<"enter n:";
+cin>>n;
+for(i=1;i<=n;i++)
+{
+k=j/p;
+j=+3;
+p=+9;
+s=s+k;}
+cout<<s;
+}

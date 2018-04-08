@@ -1,0 +1,17 @@
+#include<iostream.h>
+void main()
+{
+float m1,m2,m3,m4,m5;
+cout<<"english-";
+cin>>m1;
+cout<<"\nmaths-";
+cin>>m2;
+cout<<"\nphysics-";
+cin>>m3;
+cout<<"\nchemistry-";
+cin>>m4;
+cout<<"\nc.s-";
+cin>>m5;
+cout<<"average marks =";
+cout<<m1+m2+m3+m4+m5/5;
+}

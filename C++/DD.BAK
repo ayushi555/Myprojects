@@ -1,0 +1,18 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+char tic[3][3];int y,i,j,k;
+clrscr();
+cout<<"                               "goto last;cout<<" |   |   ";
+cout<<"\n                             ---|---|---";
+cout<<"\n                                |   |   ";
+cout<<"\n                             ---|---|---";
+cout<<"\n                                |   |   ";
+cout<<endl;
+for(y=1;y<10;y++)
+{
+cout<<"enter your --";
+cin>>i>>j;
+gotoxy(i,j);
+cin>>k; } }

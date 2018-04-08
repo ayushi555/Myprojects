@@ -1,0 +1,21 @@
+#include<stdio.h>
+#include<string.h>
+#include<ctype.h>
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int i,l,j;
+char str[55];
+cout<<"enter the string::";
+gets(str);
+l=strlen(str);
+for(i=0;i<=l-1;i++)
+{
+if(str[i]==' ')
+{for(j=i-1;str[i]!=' ';j++)
+cout<<str[i-j];
+}
+else cout<<"hiii";}getch();
+}

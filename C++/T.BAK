@@ -1,0 +1,24 @@
+#include<iostream.h>
+#include<stdio.h>
+void main()
+{
+char str[44];
+int i;
+cout<<"enter";
+gets(str);
+for(i=0;str[i]!='\0';i++)
+{
+if(str[i]==' ')
+{
+while(i>0)
+cout<<str[i--];
+}
+
+}
+
+
+
+
+
+
+}

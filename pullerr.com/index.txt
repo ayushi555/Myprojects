@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>pullerr</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body id="top">
+
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear"> 
+    
+    <div class="fl_left">
+      <ul class="faico clear">
+        <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+        
+        <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+      
+        <li><a class="faicon-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+        <li><a class="faicon-google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>
+        
+      </ul>
+    </div>
+    <div class="fl_right">
+      <ul class="nospace inline pushright">
+        <li><i class="fa fa-phone"></i> +918878677788 </li>
+        <li><i class="fa fa-envelope-o"></i> pr@pullerr.com</li>
+      </ul>
+    </div>
+    
+  </div>
+</div>
+
+<div class="wrapper row1" id="jjj">
+  <header id="header" class="hoc clear"> 
+    <div id="logo" class="fl_left" >
+	<nav id="mainav" >
+	<ul class="clear">
+     <li><img class="lo" src="loggo.png" alt=""></li>
+	<li><h1><a href="index.html">PULLERR</a></h1></li>
+    </div>
+	</ul>
+    </nav>
+   
+    <!-- ################################################################################################ -->
+    <nav id="mainav" class="fl_right">
+      <ul class="clear">
+        <li class="active"><a href="index.html">Home</a></li>
+        
+      <li><a href="pages/ship.html">Shippers</a></li>
+        <li><a href="#login">About Us</a></li>
+		 <li><a href="#login">Carriers</a></li>
+        <li><a href="#team1">Careers</a></li>
+		<li><a href="#contactiss">Contact Us</a></li>
+      </ul>
+    </nav>
+   
+  </header>
+</div>
+
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.jpg');">
+  <div id="pageintro" class="hoc clear slideanim"> 
+   
+      <h2 class="font-x3 uppercase btmspace-80 bt">India’s first intercity heavy <br/>cargo trailer <br/> hailing platform.</h2>
+      <p></p>
+      <footer>
+        <ul class="nospace inline pushright">
+       <center>
+          <li><a class="btn inverse" href="#">SIGN UP</a></li></center>
+        </ul>
+      </footer>
+   
+   
+  </div>
+</div>
+
+
+
+
+<div class="wrapper row3 slideanim" >
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <h2 class="font-x3 uppercase btmspace-80 underlined">WHAT WE OFFER</h2>
+    <div class="group center btmspace-80">
+      <article class="one_quarter first"><span class="icon"><i class="fa fa-balance-scale"></i></span>
+        <h4 class="heading">TRAILERS</h4>
+  
+      </article>
+      <article class="one_quarter"><span class="icon"><i class="fa fa-bank"></i></span>
+        <h4 class="heading">ODC/HEAVY CARGO</h4>
+       
+      </article>
+      <article class="one_quarter"><span class="icon"><i class="fa fa-plane"></i></span>
+        <h4 class="heading">LONG HAUL</h4>
+        
+      </article>
+      <article class="one_quarter"><span class="icon"><i class="fa fa-graduation-cap"></i></span>
+        <h4 class="heading">FAST & SAFE</h4>
+       
+      </article>
+    </div>
+    <ul class="nospace group">
+      <li class="one_quarter first">
+        <div class="inspace-30 borderedbox">
+          
+          <p>We are an open system - we don’t charge subscription fee from carriers and listing fee from shippers.
+</p>
+        </div>
+      </li>
+      <li class="one_quarter">
+        <article><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
+          <h6 class="heading">Load Tracking</h6><br/>
+          <p>vdvdvdfvfdvdf</p>
+     
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
+          <h6 class="heading">Logistics Powered By Technology</h6>
+          <p>Quis efficitur malesuada massa nunc tristique sit amet enim et morbi sodales purus in&hellip;</p>
+          
+        </article>
+      </li>
+      <li class="one_quarter">
+        <article><a href="#"><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
+          <h6 class="heading">Transparent Pricing</h6><br/>
+          <p>Dui convallis in ullamcorper convallis in sollicitudin dictum tellus eu fermentum lectus&hellip;</p>
+          
+        </article>
+      </li>
+    </ul>
+    <!-- ################################################################################################ -->
+    <!-- / main body -->
+    <div class="clear"></div>
+  </main>
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+<div id="aboutus"  >
+<section id="login" class="login-wid ">
+        <div class="containers">
+            <section id="testimonials" class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <h2 class="font-x3 uppercase btmspace-80">about us </h2>
+   <hr><center> Pullerr is revolutionizing the way shippers and carriers interact by modernizing B2B transactions in the ODC space. Our goal <p>is to change the landscape for logistics in the niche segment of heavy cargo and long haul. </p>
+</center><hr><br/> <br/><br/> 
+    <!-- ################################################################################################ -->
+  </section>
+        </div>
+    </section>
+
+<br/></br><br/><br/><br/><br/><br/>
+
+<div class="wrapper bgded overlay slideanim" style="background-image:url('backkk.jpg');">
+  <section id="testimonials" class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <h2 class="font-x3 uppercase btmspace-80"><center>WHAT ARE WE<hr></center></h2>
+    <ul class="nospace group">
+      <li class="one_half first">
+	  <h4 class="heading"><center>For Shippers</center></h4><hr>
+	   <figure class="clear"><img src="shipp.png" alt=""><br/>
+	   
+	   <blockquote>Nisl sed convallis  consequat interdum dui a tempus integer et venenatis orci morbi dolor leo molestie ac pharetra vel varius id magna cras at dolor non suscipit elementum pulvinar in mauris etiam sed ullamcorper dui nulla in nisi interdum nulla viverra pretium.
+	   <a href="shippers.html">Read more....</a></blockquote>
+        
+      </li>
+	 
+      <li class="one_half">
+	  <h4 class="heading"><center>For Carriers</center></h4><hr>
+	  <figure class="clear"><img src="carr.jpg" alt=""><br/>
+	  
+	  <blockquote>aliquet justo venenatis in nunc a nunc consequat euismod nulla in lacinia justo sed efficitur consectetur erat id sagittis ut gravida facilisis nibh eu ultricies etiam mattis iaculis eros at commodo duis vulputate purus porta sodales sem id scelerisque quam sed.
+	  <a href="carriers.html">Read more....</a></blockquote>
+        
+      </li>
+    </ul>
+	<hr>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+
+<div id="team1" class="slideanim">
+ <br/><br/><br/><br/><br/>
+<table>
+ 
+ <tr>
+ <th class="team"></th>
+ <th id="vb">
+<br/><br/><br/>
+  <h2 class="font-x3 uppercase btmspace-80"> <center>BUILD YOUR CAREER<br/>WITH US<hr> </center></h2>
+<a href="mailto:asoni0972@gmail.com">email us at careers@pullerr.com</a></th>
+ </tr>
+ </table>
+
+
+ </div>
+ 
+ <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+ <!-- Container (Contact Section) -->
+<div id="contactiss" class="container-fluids bg-greywrapper bgded overlay" style="background-image:url('conus.jpg');" >
+  <h2 class="text-center">CONTACT US</h2>
+  <div class="row">
+    <div class="col-sm-5">
+      <p>Contact us and we'll get back to you within 24 hours.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Plot no.1,Block no-46/F<br/> Transport Nagar ,Hathkhoj<br/> Bhilai,CHHATTISARH</p>
+      <p><span class="glyphicon glyphicon-phone"></span> CALL US +918878677788 </p>
+      <p><span class="glyphicon glyphicon-envelope"></span> email-pr@pullerr.com</p>
+    </div>
+    <div class="col-sm-7 slideanim">
+      <div class="row">
+        <div class="col-sm-6">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email">
+        </div>
+      </div>
+	  <br/>
+	  <div class="row">
+        <div class="col-sm-6">
+          <input class="form-control" id="name" name="name" placeholder="Phone Number" type="text" required>
+        </div>
+		</div><br/>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+      <div class="row">
+        <div class="col-sm-12 form-group">
+          <button class="btn btn-default pull-right" type="submit">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+ 
+ <center>
+View Us On Google Maps:<br/><div class="mapouter"><div class="gmap_canvas"><iframe width="1000" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Pullerr%2C%20Hathkhoj%2C%20Bhilai%2C%20Chhattisgarh%2C%20India&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>embed google map <a href="http://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{overflow:hidden;height:300px;width:1000px;}.gmap_canvas {background:none!important;height:300px;width:1000px;}</style></div>
+	</center> <br/><br/>
+ <br/><br/>
+
+  </div>
+
+
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2017 - All Rights Reserved - <a href="#">pullerr.com</a></p>
+     <p class="fl_right">Pullerr Logistics pvt.Ltd.</p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<script>
+
+$(window).scroll(function() {
+  $(".slideanim").each(function(){
+    var pos = $(this).offset().top;
+
+    var winTop = $(window).scrollTop();
+    if (pos < winTop + 600) {
+      $(this).addClass("slide");
+    }
+  });
+});
+</script>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+<!-- IE9 Placeholder Support -->
+<script src="layout/scripts/jquery.placeholder.min.js"></script>
+<!-- / IE9 Placeholder Support -->
+</body>
+</html>

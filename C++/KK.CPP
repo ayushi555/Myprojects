@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+outtextxy(31,2," \\ \n   \\ \n     \\\n       \\ \n         \\\n           \\\n             \\\n               \\\n                 \\\n 		   \\");
+outtextxy(50,2, "                     /\n                   /\n                 /\n               /\n             / \n           /\n         /\n       /\n     /\n   /");
+outtextxy(31,2,"|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|");
+outtextxy(50,2,"|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|");
+outtextxy(40,2,"|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|");
+outextxy(31,2,"----------------------------");
+outextxy(31,2,"----------------------------");
+ outextxy(31,2,"----------------------------");
+     }

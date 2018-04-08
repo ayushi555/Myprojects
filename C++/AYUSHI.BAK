@@ -1,0 +1,45 @@
+#include <iostream>
+
+class student
+{
+ public:   int clas;
+    char name[10];
+};
+class info:public student
+{
+  public:  int rolno;
+};
+class marks:public info
+{
+   int  Marks[5],avr;
+   public:
+       int initializer()
+       {
+           cout<<"Enter name:";
+           cin>>name;
+           cout<<"Enter roll no.:";
+           cin>>rolno;
+           cout<<"Enter marks:";
+           int m;
+           for(int i=1;i<=5;i++)
+           {
+               cin>>m;
+               Marks[i]=m;
+           }
+           cout<<"Average marks:";
+           int s=0;
+           for(int j=1;j<=5;j++)
+           {
+               s=s+Marks[j];
+           }
+           avr=s/5;
+           cout<<avr;
+       }
+};
+
+int main()
+{
+    marks jay;
+    jay.initializer();
+    return 0;
+}

@@ -1,0 +1,22 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+clrscr();char tic[3][3];
+tic[0][0]=2;
+tic[0][0]='&';
+tic[0][1]='&';
+tic[0][2]='&';
+tic[1][0]='&';
+tic[1][1]='&';
+tic[1][2]='&';
+tic[2][0]='&';
+tic[2][1]='&';
+tic[2][2]='&';
+cout<<tic[0][0]<<"||"<<tic[0][1]<<"||"<<tic[0][2]<<endl;
+cout<<"-------"<<endl;
+cout<<tic[1][0]<<"||"<<tic[1][1]<<"||"<<tic[1][2]<<endl;
+cout<<"-------"<<endl;
+cout<<tic[2][1]<<"||"<<tic[2][1]<<"||"<<tic[2][2]<<endl;
+cout<<"-------"<<endl;
+}

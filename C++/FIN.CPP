@@ -1,0 +1,18 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+
+clrscr();
+cout<<"                                  |         |         ";
+cout<<"\n                              1   |    2    |    3    ";
+cout<<"\n                                  |         |          ";
+cout<<"\n                           -------|---------|-------";
+cout<<"\n                                  |         |          ";
+cout<<"\n                              4   |    5    |    6     ";
+cout<<"\n                                  |         |          ";
+cout<<"\n                           -------|---------|-------";
+cout<<"\n                                  |         |          ";
+cout<<"\n                              7   |    8    |    9      ";
+cout<<"\n                                  |         |        ";
+gotoxy(31,2);}

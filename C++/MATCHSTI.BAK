@@ -1,0 +1,27 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,i,matchsticks=0;
+clrscr();
+printf("PLAYER.PLEASE PICK UP 1-4 MATCH STICKS AS PER YOUR DESIRE.\n");
+scanf("%d",&a);
+if(a>=1 && a<=4)
+{
+for(i=1;i<=4;i++)
+{
+matchsticks+=a;
+printf("YOU PICKED UP %d MATCHSTICKS.NOW COMPUTER'S TURN. \n",a);
+b=5-a;
+printf("COMPUTER PICKS UP %d MATCHSTICKS.IT'S YOUR TURN AGAIN.\n",b);
+matchsticks+=b;
+printf("MATCHSTICKS =%d \n",matchsticks);
+printf("PLAYER LOSES.COMPUTER WINS.");
+}
+}
+else
+{
+printf("YOU ARE DISQUALIFIED.");
+}
+getch();
+}

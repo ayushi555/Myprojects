@@ -1,0 +1,69 @@
+#include<iostream.h>
+#include<conio.h>
+#include<stdlib.h>
+
+void main()
+{
+clrscr();
+int year,i,k,l=0;
+
+cout<<"enter the year:";
+cin>>year;
+if(year%100==0)
+{
+if(year%400==0)
+cout<<"leap year";
+}
+else if(year%4==0)
+{l++;cout<<"leap year"; }
+else
+cout<<"not a leap year";
+
+
+
+
+for(int m=1;m<12;m++)       //12 baar
+{
+
+switch(m)
+{
+case 2:  if(l==1) k=29; else k=28; break;
+
+case 4:k=30;break;
+case 6: k=30;break;
+case 9:k=30;break;
+case 11:  k=30;break;
+default:k=31;break;
+}
+
+
+
+
+
+cout<<endl<<m<<" "<<k ;
+for(i=1;i<=k;i++)                //days print
+cout<<i<<" ";
+
+
+system("pause");
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
